@@ -5,7 +5,7 @@ cat_attributes = {
     # change the inital values above
 }
 
-print("Welcome to my cat game!!!")
+print("Welcome to my cat game!!!jhfjgjgh")
 
 # Take the user inputs for name and colour:
 name = input("Enter name:")
